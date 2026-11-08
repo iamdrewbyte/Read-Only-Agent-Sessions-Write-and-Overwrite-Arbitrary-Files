@@ -8,6 +8,8 @@
 **CVSS 3.1:** 5.6 (headless, `UI:R`) — `AV:L/AC:L/PR:L/UI:R/S:U/C:N/I:H/A:L`; 6.1 (connected, no interaction needed beyond starting a read-only agent) — `AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:H/A:L`
 **Status:** Confirmed, exploitable end to end. **Independently re-verified for this report** by cloning the public repository, building the real release binary from source at the audited commit, and running two proof-of-concept exploits against it directly — not a restatement of the original audit's transcript.
 
+Vendor - https://github.com/IPedrax/BIMCraft
+
 ---
 
 ## In one paragraph
